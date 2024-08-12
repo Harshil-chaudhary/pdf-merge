@@ -1,2 +1,2 @@
 # pdf-merge
-Merges upto 10 pdf's into 1
+Merges upto 10 pdf's into  1
