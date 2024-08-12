@@ -5,7 +5,7 @@ def merge_pdf(input,output):
 
 output = PdfFileWriter()
 
-# Appending  pdf-pages from ten different files in order
+# Appending  pdf-pages from ten different files in  order
 merge_pdf(PdfFileReader(open("1.pdf","rb")),output)
 merge_pdf(PdfFileReader(open("2.pdf","rb")),output)
 merge_pdf(PdfFileReader(open("3.pdf","rb")),output)
